@@ -34,7 +34,7 @@ def generate_git_timeline():
     timeline_file_path = os.path.join(log_dir, "git_timeline_report.md")
 
     # Start generating the Markdown content
-    with open(timeline_file_path, "w") as md_file:
+    with open(timeline_file_path, "w", encoding="utf-8", newline="\n") as md_file:
         md_file.write("# 📊 Git Commit Timeline\n\n")
         md_file.write(f"> **Generated on:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
         md_file.write(f"> **Branch:** `{branch_name}`\n\n")
