@@ -7,6 +7,7 @@ Each commit links to its detailed log.
 
 | Commit Hash | Date & Time       | Author       | Message           |
 |-------------|------------------|--------------|-------------------|
+| [10fdc6ec](./10fdc6ec.md) | 2025-07-01 15:08 | Johan Sörell | feat(setup): add extraction script and coder template documentation |
 | [12d4018e](./12d4018e.md) | 2025-07-01 14:19 | Johan Sörell | fix(docker): remove invalid COPY instruction with shell syntax |
 | [c2e2528a](./c2e2528a.md) | 2025-07-01 13:20 | Johan Sörell | fix(git-timeline): enforce LF line endings and UTF-8 safety on Windows |
 | [3459a8ba](./3459a8ba.md) | 2025-07-01 13:13 | Johan Sörell | chore(git): add .gitattributes for consistent line endings and binary handling adding main branch docs too |
