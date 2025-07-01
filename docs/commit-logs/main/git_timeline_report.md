@@ -1,6 +1,6 @@
 # 📊 Git Commit Timeline
 
-> **Generated on:** 2025-07-01 13:20:49
+> **Generated on:** 2025-07-01 14:19:55
 
 > **Branch:** `main`
 
@@ -8,10 +8,10 @@
 | **Branch Name** | **Last Commit** | **Author** |
 |----------------|--------------|------------|
 | feat/update-githooks-installation-20250701-102603 | ce686bc | Johan SÃ¶rell |
-| main | c2e2528 | Johan SÃ¶rell |
-| origin | efa9e0c | Johan SÃ¶rell |
+| main | 12d4018 | Johan SÃ¶rell |
+| origin | 4e79cc8 | Johan SÃ¶rell |
 | origin/feat/update-githooks-installation-20250701-102603 | ce686bc | Johan SÃ¶rell |
-| origin/main | efa9e0c | Johan SÃ¶rell |
+| origin/main | 4e79cc8 | Johan SÃ¶rell |
 
 ## 🏷️ Tags
 | **Tag** | **Commit Hash** | **Tagged On** |
@@ -23,6 +23,16 @@
 | 4529641 | Merge pull request #1 from J-SirL/feat/update-githooks-installation-20250701-102603 | 2025-07-01 10:28:30 +0200 |
 
 ## 📁 Commit Log
+### ✅ Commit: [12d4018](https://github.com/J-SirL/mediawiki-automation/commit/12d4018)
+- **Date:** 2025-07-01 14:19:54 +0200
+- **Author:** Johan SÃ¶rell
+- **Message:** fix(docker): remove invalid COPY instruction with shell syntax
+
+### ✅ Commit: [4e79cc8](https://github.com/J-SirL/mediawiki-automation/commit/4e79cc8)
+- **Date:** 2025-07-01 13:20:47 +0200
+- **Author:** Johan SÃ¶rell
+- **Message:** Update commit timeline: c2e2528a8943afc7365740331b98dc099464f1b7
+
 ### ✅ Commit: [c2e2528](https://github.com/J-SirL/mediawiki-automation/commit/c2e2528)
 - **Date:** 2025-07-01 13:20:47 +0200
 - **Author:** Johan SÃ¶rell
