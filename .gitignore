@@ -1,0 +1,48 @@
+
+
+
+
+
+
+############################
+# 🐍 PYTHON
+############################
+**/__pycache__/
+*.py[cod]
+*$py.class
+# Virtual environments
+env/
+venv/
+.venv/
+**/env/
+**/venv/
+**/.venv/
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+############################
+# 💻 VISUAL STUDIO CODE
+############################
+.vscode/
+############################
+# 🔒 SECRETS / ENV FILES
+############################
+.env
+**/.env
+.env.*
+**/.env.*
+!.env.example
+############################
+# 📝 LOCAL COMMIT MESSAGE DRAFTS & LOGS
+############################
+# Ignore all commit-* files everywhere in the repo,
+# except those in docs/commit-examples/ and docs/commit-logs/
+commit-*
+**/commit-*
+# Never ignore documentation commit logs or commit-examples
+!docs/commit-examples/commit-*
+!docs/commit-logs/
+!docs/commit-logs/**
