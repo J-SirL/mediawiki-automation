@@ -1,0 +1,19 @@
+{
+  "version": "2.1",
+  "last_updated": "2025-07-01T10:26:03.948946",
+  "scripts_hash": "29f02d7567d21808752a7da85ac9348a",
+  "docs_hash": "ecfc4008651dd8f3597e9828d3901696",
+  "managed_files": {
+    "scripts": [
+      "post-commit\\generate_git_timeline.py",
+      "post-commit\\githooks_utils.py",
+      "post-commit\\update-readme.sh"
+    ],
+    "docs": [
+      "conventional-commits-readme.md",
+      "example-of-logs.md",
+      "user-story-example-readme.md"
+    ]
+  },
+  "installer": "githooks-install.py"
+}
